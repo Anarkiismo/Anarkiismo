@@ -10,7 +10,7 @@ Anyone! It’s freedomly!
 
 ## How do I join? ##
 
-Just open an issue in this repository and say you want to join here,Soon after,you will receive an email with an invitation link to the mailbox associated with your GitHub account!
+Just open an issue in this repository and say you want to join here,Soon, the mailbox associated with your GitHub account will receive an email with an invitation link!
 
 ## I found some grammatical errors/typos/I want to improve this. ##
 
